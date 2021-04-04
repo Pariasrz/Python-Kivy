@@ -11,6 +11,12 @@ Label:
                              
 """)
 
+
+"""
+or
+myv = Builder.load_file('kvfile.kv')
+"""
+
 class myapp(App):
     def build(self):
         return mykv
