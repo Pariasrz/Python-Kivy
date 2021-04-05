@@ -20,6 +20,3 @@ BoxLayout:
                                        
         
 """ ))
-
-
-#or we use the code below
